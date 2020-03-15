@@ -5,4 +5,6 @@
  
  I made this program as a school project in Sixth Form. I remember that this was the very first time I worked with a matrix as a data structure.
 
+## Preview
+![](images/LED-Bulbs-preview.png)
 
