@@ -3,6 +3,6 @@
  
  You may also enter the cost of changing those bulbs and the price of electicity in your area, in order to calculate the payback time of the investment.
  
- I made this program as a school proyect in Sixth Form and I remember that this was the very first time I worked with a matrix as a data type.
+ I made this program as a school project in Sixth Form. I remember that this was the very first time I worked with a matrix as a data structure.
 
 
